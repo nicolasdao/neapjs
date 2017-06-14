@@ -1,3 +1,5 @@
+<a href="https://neap.co" target="_blank"><img src="https://neap.co/img/neap_black_small_logo.png" alt="Neap Pty Ltd logo" title="Neap" align="right" height="50" width="120"/></a>
+
 # neapjs - The neap.co Repository
 
 This repostory contains all open source repositories created and maintained by neap.co. Those repositories are hosted on the Google Firebase CDN at [https://neapjs.firebaseapp.com](https://neapjs.firebaseapp.com).
