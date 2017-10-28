@@ -9,7 +9,7 @@ This repostory contains all open source repositories created and maintained by n
 | Project  | Link |
 | ------------- | ------------- |
 | [graphx](https://github.com/nicolasdao/graphx)  | [https://neapjs.firebaseapp.com/graphx/0.2.0-alpha.0/graphx.min.js](https://neapjs.firebaseapp.com/graphx/0.2.0-alpha.0/graphx.min.js)  |
-| [grahql-s2s](https://github.com/nicolasdao/graphql-s2s)  | [https://neapjs.firebaseapp.com/graphqls2s/0.2.1/graphqls2s.min.js](https://neapjs.firebaseapp.com/graphqls2s/0.2.1/graphqls2s.min.js)  |
+| [grahql-s2s](https://github.com/nicolasdao/graphql-s2s)  | [https://neapjs.firebaseapp.com/graphqls2s/0.3.1/graphqls2s.min.js](https://neapjs.firebaseapp.com/graphqls2s/0.3.1/graphqls2s.min.js)  |
 
 # This Is What We re Up To
 
